@@ -1,2 +1,2 @@
-# blog
+# HH OS Blog
 HackHands Blog
