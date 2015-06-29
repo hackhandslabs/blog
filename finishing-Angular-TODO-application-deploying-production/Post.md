@@ -2,7 +2,7 @@
 title: 'Finishing Angular TODO application and deploying to production'
 description: false
 published: true
-date: 2015-06-29
+date: 2015-06-30
 author: hitman666
 ---
 
